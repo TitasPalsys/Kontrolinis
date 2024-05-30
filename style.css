@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(86, 86, 86);
+}
+
+
+.container{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 600px;
+    font-size: 50px;
+    background-color: grey;
+    border: solid 20px;
+    border-color: rgb(79, 79, 79);
+}
+
+
+
+.remove{
+    padding-left: 70px;
+    text-decoration: none;
+    color: red;
+}
+
+
+.remove:hover{
+    color: rgb(186, 3, 3);
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+
+h2{
+    padding-left: 30%;
+}
+
+
+span{
+    color: red;
+    font-size: 20px;
+}
